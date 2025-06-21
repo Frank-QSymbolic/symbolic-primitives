@@ -1,0 +1,31 @@
+Business Source License 1.1
+
+Licensor: Frank Cunnane
+
+The Licensed Work is: The Triangle Symbolic Processing Framework (TSPF) and its symbolic primitives, including symbolic collapse (COL_∆), entanglement (ENT), phase tagging (θ), symbolic gates (SYM_NOT, H_∆, etc.), and all associated logic or implementations provided in this repository.
+
+The Licensed Work is (c) 2025 Frank Cunnane. All rights reserved.
+
+Use Limitation: The Licensed Work may only be used for non-commercial academic, research, experimental, and educational purposes. Any other use, including but not limited to commercial deployment, consulting, licensing, resale, or incorporation into proprietary tools, products, or services, is strictly prohibited without a separate written agreement with the Licensor.
+
+This license does not grant any rights to:
+- Use the Licensed Work for commercial purposes
+- Sell or sublicense the Licensed Work or derivatives thereof
+- Embed or integrate the Licensed Work into commercial hardware or software systems
+- Claim authorship or ownership over the Licensed Work or symbolic methods contained therein
+
+Patents:
+The Licensed Work includes features that are patent pending. No patent license is granted under this license. Any use of patented symbolic primitives, entropy convergence logic, or symbolic entanglement mechanisms outside the permitted non-commercial scope requires a separate license from the Licensor.
+
+No Change Date:
+This license does not include a Change Date. The Licensed Work will not be automatically converted to any open source license. Continued use remains subject to the terms stated herein unless otherwise agreed in writing by the Licensor.
+
+Disclaimer:
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY.
+
+Contact:
+For commercial licensing, research collaboration, or formal evaluation inquiries, contact:
+
+Frank Cunnane  
+Email: frank@qsymbolic.com  
+Website: https://qsymbolic.com
